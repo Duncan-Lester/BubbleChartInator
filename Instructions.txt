@@ -1,0 +1,11 @@
+Need Python installed
+Need pandas installed (pip install pandas)
+Need matplotlib installed (pip install matplotlib)
+
+file requirements: .xslx, file closed, can't be the check mark 'open' xlsx.
+
+1. Put Data in same folder as Chartinator
+2. Run Chartinator from console
+3. Type in the name of your data sheet without the .xlsx extension
+4. Type in the title of your figure
+5. Click the save icon to save the generated chart as an image to your pc somewhere
