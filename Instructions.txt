@@ -8,4 +8,5 @@ file requirements: .xslx, file closed, can't be the check mark 'open' xlsx.
 2. Run Chartinator from console
 3. Type in the name of your data sheet without the .xlsx extension
 4. Type in the title of your figure
-5. Click the save icon to save the generated chart as an image to your pc somewhere
+5. Wiggle window size around, play with MPL settings to adjust figure.
+6. Click the save icon to save the generated chart as an image to your pc somewhere, or Screengrab/snip tool
