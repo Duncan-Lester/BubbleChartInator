@@ -1,6 +1,7 @@
 Need Python installed
 Need pandas installed (pip install pandas)
 Need matplotlib installed (pip install matplotlib)
+need seaborn installed (pip install seaborn)
 
 file requirements: .xslx, file closed, can't be the check mark 'open' xlsx.
 
